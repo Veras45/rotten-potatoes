@@ -12,3 +12,8 @@ valide se foi criado usando
 kubectl get pods ou kubectl get all 
 
 apos isso sua aplicacao ja vai esta no ar! 
+
+
+OBS: Necessario ter a image no seu DockerHub... 
+
+
