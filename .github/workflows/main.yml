@@ -48,5 +48,5 @@ jobs:
         with:
           iamges:  veras45/rotten-potatoes:${{ github.run_number }}
           manifests: |
-            k8s/meudeployment.yaml
+            Aula-Kubernetes/rotten-potatoes/k8s/meudeployment.yaml
       
