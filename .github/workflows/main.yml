@@ -29,4 +29,3 @@ jobs:
           tags: |
             veras45/rotten-potatoes:latest
             veras45/rotten-potatoes:${{ github.run_number }}
-          
